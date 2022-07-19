@@ -26,14 +26,14 @@
 
 ### Depenencies
 
-- []Retrofit2
-- []Moshi
-- []Sandwich
-- []Navigation
-- []Glide
-- []Lifecycle
-- []ViewModel
-- []Dagger/Hilt
+- [x]Retrofit2
+- [x]Moshi
+- [x]Sandwich
+- [x]Navigation
+- [x]Glide
+- [x]Lifecycle
+- [x]ViewModel
+- [x]Dagger/Hilt
 
 ### Resources:
 

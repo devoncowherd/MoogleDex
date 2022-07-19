@@ -1,7 +1,7 @@
 # TODO (Knowns):
 
-- []Create Repository
-- []Create View Model
+- [x]Create Repository
+- [x]Create View Model
 - []Create Navigation
 - []Add User Favorites
     - []Add to Room
@@ -34,6 +34,7 @@
 - [x]Lifecycle
 - [x]ViewModel
 - [x]Dagger/Hilt
+- [x]RxKotlin
 
 ### Resources:
 
@@ -44,3 +45,7 @@
     - https://www.moogleapi.com/api/v1/games
     - https://www.moogleapi.com/api/v1/characters/random
     - Ref: https://github.com/jackfperryjr/mog#readme
+
+### Notes
+
+- What are interceptors, and why are they used in modern Android apps?
